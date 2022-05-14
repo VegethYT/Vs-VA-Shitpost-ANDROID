@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VA_port.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VA_chill0000" x="5" y="5" width="359" height="355" frameX="-2" frameY="-5" frameWidth="361" frameHeight="360"/>
+	<SubTexture name="VA_chill0001" x="5" y="5" width="359" height="355" frameX="-2" frameY="-5" frameWidth="361" frameHeight="360"/>
+	<SubTexture name="VA_chill0002" x="369" y="5" width="358" height="360" frameX="0" frameY="0" frameWidth="361" frameHeight="360"/>
+	<SubTexture name="VA_chill0003" x="369" y="5" width="358" height="360" frameX="0" frameY="0" frameWidth="361" frameHeight="360"/>
+	<SubTexture name="VA_cool0000" x="732" y="5" width="276" height="336" frameX="-1" frameY="-5" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="VA_cool0001" x="732" y="5" width="276" height="336" frameX="-1" frameY="-5" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="VA_cool0002" x="1013" y="5" width="274" height="342" frameX="0" frameY="0" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="VA_cool0003" x="1013" y="5" width="274" height="342" frameX="0" frameY="0" frameWidth="277" frameHeight="342"/>
+	<SubTexture name="VA_normal0000" x="1292" y="5" width="321" height="342" frameX="-1" frameY="-6" frameWidth="324" frameHeight="348"/>
+	<SubTexture name="VA_normal0001" x="1292" y="5" width="321" height="342" frameX="-1" frameY="-6" frameWidth="324" frameHeight="348"/>
+	<SubTexture name="VA_normal0002" x="1618" y="5" width="324" height="348"/>
+	<SubTexture name="VA_normal0003" x="1618" y="5" width="324" height="348"/>
+	<SubTexture name="VA_shocked0000" x="5" y="370" width="321" height="342" frameX="-2" frameY="-4" frameWidth="329" frameHeight="346"/>
+	<SubTexture name="VA_shocked0001" x="331" y="370" width="321" height="342" frameX="-2" frameY="-4" frameWidth="329" frameHeight="346"/>
+	<SubTexture name="VA_shocked0002" x="657" y="370" width="329" height="346"/>
+	<SubTexture name="VA_shocked0003" x="991" y="370" width="329" height="346"/>
+</TextureAtlas>

@@ -1,0 +1,59 @@
+{
+	"storyName": "VA",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "vaAlley",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Shitpost",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"Strong Rhythm",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"Mania Lover",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"Last Send",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"va",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "VA Shitpost"
+}

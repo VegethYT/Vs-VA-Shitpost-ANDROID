@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Beep ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Uhhh, BF?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "excited",
+			"text": "Bap bop beep",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "What are you doing here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop bip beep skdoo boop bap ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I understand",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "chill",
+			"text": "If you guys feel bored, then why don't we\\ndo a rap battle?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "excited",
+			"text": "BAP BOP BEEP BEP",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cool",
+			"text": "Oh don't expect me to go easy on you, BF!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "pissed",
+			"text": "BEEEP BAP BOOP BIP BEP!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

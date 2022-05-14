@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_VA.png">
+<SubTexture name="M VA Idle0000" x="0" y="431" width="269" height="406" frameX="-133" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0001" x="269" y="431" width="258" height="406" frameX="-135" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0002" x="803" y="0" width="259" height="410" frameX="-138" frameY="-71" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0003" x="554" y="0" width="249" height="419" frameX="-141" frameY="-63" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0004" x="0" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0005" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

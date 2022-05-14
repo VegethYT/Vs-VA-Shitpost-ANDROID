@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va",
+			"boxState": "normal",
+			"expression": "cool",
+			"text": "Wow that was sick"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bip bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I wanna dedicate this next song to my \\nfavourite game"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bap bop bip?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va",
+			"boxState": "normal",
+			"expression": "chill",
+			"text": "Of course it's osu!mania"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bop beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright let's go"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep"
+		}
+	]
+}

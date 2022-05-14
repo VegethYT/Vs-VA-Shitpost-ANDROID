@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "OH! My parents texted me",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Beep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "They said we have to go...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "That sucks...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "talk",
+			"text": "HEY, why don't we sing a last song before going?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "talk",
+			"text": "I guess we do have time for another song ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "BAAAP BEEEP BOP BIP! ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Cool",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "cool",
+			"text": "Then let's start because this time it will be really hard!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "va"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop skdoo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "demon",
+			"text": "This will be funny ;)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

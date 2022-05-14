@@ -1,0 +1,63 @@
+{
+	"position": [
+		140,
+		120
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Vashit_Portraits",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "VA_normal",
+			"idle_name": "VA_normal"
+		},
+		{
+			"loop_offsets": [
+				1,
+				-1
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				1,
+				-1
+			],
+			"loop_name": "VA_shocked",
+			"idle_name": "VA_shocked"
+		},
+		{
+			"loop_name": "VA_chill",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "VA_chill",
+			"anim": "chill",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "VA_cool",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "VA_cool",
+			"anim": "cool",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

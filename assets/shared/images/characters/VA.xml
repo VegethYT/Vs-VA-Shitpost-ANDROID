@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VA.png"><SubTexture name="VA down0000" x="1499" y="406" width="250" height="403" frameX="-139" frameY="-77" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA down0001" x="748" y="881" width="251" height="408" frameX="-138" frameY="-73" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA down0002" x="249" y="881" width="240" height="418" frameX="-140" frameY="-65" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA idle0000" x="999" y="881" width="269" height="406" frameX="-133" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA idle0001" x="1499" y="0" width="258" height="406" frameX="-135" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA idle0002" x="489" y="881" width="259" height="410" frameX="-138" frameY="-71" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA idle0003" x="0" y="881" width="249" height="419" frameX="-141" frameY="-63" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA idle0004" x="259" y="449" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA idle0005" x="536" y="449" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA left0000" x="1232" y="426" width="265" height="423" frameX="-124" frameY="-58" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA left0001" x="1232" y="0" width="267" height="426" frameX="-128" frameY="-55" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA left0002" x="703" y="0" width="271" height="434" frameX="-128" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA right0000" x="0" y="449" width="259" height="432" frameX="-142" frameY="-49" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA right0001" x="974" y="0" width="258" height="428" frameX="-142" frameY="-53" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA right0002" x="974" y="428" width="251" height="422" frameX="-142" frameY="-59" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA up0000" x="0" y="0" width="240" height="449" frameX="-139" frameY="-35" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA up0001" x="240" y="0" width="232" height="442" frameX="-144" frameY="-41" frameWidth="500" frameHeight="500" />
+<SubTexture name="VA up0002" x="472" y="0" width="231" height="438" frameX="-142" frameY="-43" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
