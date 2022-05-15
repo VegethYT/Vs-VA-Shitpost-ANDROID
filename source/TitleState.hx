@@ -312,9 +312,7 @@ class TitleState extends MusicBeatState
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
-		
-		add(gfDance);
-		gfDance.shader = swagShader.shader;
+
 		add(logoBl);
 		logoBl.shader = swagShader.shader;
 
