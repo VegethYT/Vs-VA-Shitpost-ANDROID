@@ -17,3 +17,7 @@ Go follow Psych Engine's (installation guide)[https://github.com/ShadowMario/FNF
 * FakeZackIsPrettyDumb - VA's BG
 * FreshTH - Menu BG
 
+#### Disclaimer!
+This is the official android build which was entirely coded by me (at least in some certain parts).
+
+

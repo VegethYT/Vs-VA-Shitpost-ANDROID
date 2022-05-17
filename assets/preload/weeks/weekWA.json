@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Sunshine",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"Withered",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		],
+		[
+			"Run",
+			"va",
+			[
+				0,
+				253,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "vaAlley",
+	"difficulties": "",
+	"weekCharacters": [
+		"va",
+		"bf",
+		"gf"
+	],
+	"storyName": "VA BOB",
+	"weekName": "VA BOB",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekVA",
+	"startUnlocked": true
+}

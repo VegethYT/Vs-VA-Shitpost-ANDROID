@@ -6,4 +6,12 @@
 <SubTexture name="M VA Idle0003" x="554" y="0" width="249" height="419" frameX="-141" frameY="-63" frameWidth="500" frameHeight="500" />
 <SubTexture name="M VA Idle0004" x="0" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
 <SubTexture name="M VA Idle0005" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0006" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0007" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0008" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0009" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0010" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0011" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0012" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="M VA Idle0013" x="277" y="0" width="277" height="431" frameX="-142" frameY="-50" frameWidth="500" frameHeight="500" />
 </TextureAtlas>
